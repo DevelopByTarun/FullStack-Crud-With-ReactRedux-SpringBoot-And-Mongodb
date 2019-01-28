@@ -1,0 +1,143 @@
+2019-01-03 19:16:01 DEBUG BookAspect:30 - 
+2019-01-03 19:16:01 DEBUG BookAspect:32 - Method Is Calling On :: Thu Jan 03 19:16:01 IST 2019
+2019-01-03 19:16:01 DEBUG BookAspect:33 - 
+2019-01-03 19:16:01 DEBUG BookAspect:44 - Method Name Is :: saveBook
+2019-01-03 19:16:01 DEBUG BookAspect:45 - Method Storing Memory Location Code Is :: 1743324529
+2019-01-03 19:16:01 DEBUG BookAspect:46 - Method Start Time Is :: 1546523161809
+2019-01-03 19:16:01 DEBUG BookAspect:47 - 
+2019-01-03 19:16:01 DEBUG BookAspect:48 - 
+2019-01-03 19:16:03 DEBUG BookAspect:58 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiCrudWithReactReduxAndMongodb.service.BookService
+2019-01-03 19:16:03 DEBUG BookAspect:59 - Method End Time Is :: 1546523163976
+2019-01-03 19:16:03 DEBUG BookAspect:60 - Method Total Time Taken Is :: 2167 MilliSeconds
+2019-01-03 19:16:03 DEBUG BookAspect:61 - 
+2019-01-03 19:16:03 DEBUG BookAspect:62 - 
+2019-01-03 19:16:04 DEBUG BookAspect:30 - 
+2019-01-03 19:16:04 DEBUG BookAspect:32 - Method Is Calling On :: Thu Jan 03 19:16:04 IST 2019
+2019-01-03 19:16:04 DEBUG BookAspect:33 - 
+2019-01-03 19:16:04 DEBUG BookAspect:73 - Method Name Is :: getAllBooks
+2019-01-03 19:16:04 DEBUG BookAspect:74 - Method Storing Memory Location Code Is :: 642350132
+2019-01-03 19:16:04 DEBUG BookAspect:75 - Method Start Time Is :: 1546523164095
+2019-01-03 19:16:04 DEBUG BookAspect:76 - 
+2019-01-03 19:16:04 DEBUG BookAspect:77 - 
+2019-01-03 19:16:04 DEBUG BookAspect:87 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiCrudWithReactReduxAndMongodb.service.BookService
+2019-01-03 19:16:04 DEBUG BookAspect:88 - Method End Time Is :: 1546523164366
+2019-01-03 19:16:04 DEBUG BookAspect:89 - Method Total Time Taken Is :: 271 MilliSeconds
+2019-01-03 19:16:04 DEBUG BookAspect:90 - 
+2019-01-03 19:16:04 DEBUG BookAspect:91 - 
+2019-01-03 19:16:28 DEBUG BookAspect:30 - 
+2019-01-03 19:16:28 DEBUG BookAspect:32 - Method Is Calling On :: Thu Jan 03 19:16:28 IST 2019
+2019-01-03 19:16:28 DEBUG BookAspect:33 - 
+2019-01-03 19:16:28 DEBUG BookAspect:73 - Method Name Is :: getAllBooks
+2019-01-03 19:16:28 DEBUG BookAspect:74 - Method Storing Memory Location Code Is :: 646755043
+2019-01-03 19:16:28 DEBUG BookAspect:75 - Method Start Time Is :: 1546523188961
+2019-01-03 19:16:28 DEBUG BookAspect:76 - 
+2019-01-03 19:16:28 DEBUG BookAspect:77 - 
+2019-01-03 19:16:29 DEBUG BookAspect:87 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiCrudWithReactReduxAndMongodb.service.BookService
+2019-01-03 19:16:29 DEBUG BookAspect:88 - Method End Time Is :: 1546523189190
+2019-01-03 19:16:29 DEBUG BookAspect:89 - Method Total Time Taken Is :: 229 MilliSeconds
+2019-01-03 19:16:29 DEBUG BookAspect:90 - 
+2019-01-03 19:16:29 DEBUG BookAspect:91 - 
+2019-01-03 19:16:32 DEBUG BookAspect:30 - 
+2019-01-03 19:16:32 DEBUG BookAspect:32 - Method Is Calling On :: Thu Jan 03 19:16:32 IST 2019
+2019-01-03 19:16:32 DEBUG BookAspect:33 - 
+2019-01-03 19:16:32 DEBUG BookAspect:102 - Method Name Is :: deleteBook
+2019-01-03 19:16:32 DEBUG BookAspect:103 - Method Storing Memory Location Code Is :: 1263008450
+2019-01-03 19:16:32 DEBUG BookAspect:104 - Method Start Time Is :: 1546523192459
+2019-01-03 19:16:32 DEBUG BookAspect:105 - 
+2019-01-03 19:16:32 DEBUG BookAspect:106 - 
+2019-01-03 19:16:32 DEBUG BookAspect:116 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiCrudWithReactReduxAndMongodb.service.BookService
+2019-01-03 19:16:32 DEBUG BookAspect:117 - Method End Time Is :: 1546523192702
+2019-01-03 19:16:32 DEBUG BookAspect:118 - Method Total Time Taken Is :: 243 MilliSeconds
+2019-01-03 19:16:32 DEBUG BookAspect:119 - 
+2019-01-03 19:16:32 DEBUG BookAspect:120 - 
+2019-01-03 19:17:41 DEBUG BookAspect:30 - 
+2019-01-03 19:17:41 DEBUG BookAspect:32 - Method Is Calling On :: Thu Jan 03 19:17:41 IST 2019
+2019-01-03 19:17:41 DEBUG BookAspect:33 - 
+2019-01-03 19:17:41 DEBUG BookAspect:73 - Method Name Is :: getAllBooks
+2019-01-03 19:17:41 DEBUG BookAspect:74 - Method Storing Memory Location Code Is :: 703494874
+2019-01-03 19:17:41 DEBUG BookAspect:75 - Method Start Time Is :: 1546523261045
+2019-01-03 19:17:41 DEBUG BookAspect:76 - 
+2019-01-03 19:17:41 DEBUG BookAspect:77 - 
+2019-01-03 19:17:41 DEBUG BookAspect:87 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiCrudWithReactReduxAndMongodb.service.BookService
+2019-01-03 19:17:41 DEBUG BookAspect:88 - Method End Time Is :: 1546523261280
+2019-01-03 19:17:41 DEBUG BookAspect:89 - Method Total Time Taken Is :: 235 MilliSeconds
+2019-01-03 19:17:41 DEBUG BookAspect:90 - 
+2019-01-03 19:17:41 DEBUG BookAspect:91 - 
+2019-01-03 19:18:39 DEBUG BookAspect:30 - 
+2019-01-03 19:18:39 DEBUG BookAspect:32 - Method Is Calling On :: Thu Jan 03 19:18:39 IST 2019
+2019-01-03 19:18:39 DEBUG BookAspect:33 - 
+2019-01-03 19:18:39 DEBUG BookAspect:44 - Method Name Is :: saveBook
+2019-01-03 19:18:39 DEBUG BookAspect:45 - Method Storing Memory Location Code Is :: 817158400
+2019-01-03 19:18:39 DEBUG BookAspect:46 - Method Start Time Is :: 1546523319404
+2019-01-03 19:18:39 DEBUG BookAspect:47 - 
+2019-01-03 19:18:39 DEBUG BookAspect:48 - 
+2019-01-03 19:18:39 DEBUG BookAspect:58 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiCrudWithReactReduxAndMongodb.service.BookService
+2019-01-03 19:18:39 DEBUG BookAspect:59 - Method End Time Is :: 1546523319745
+2019-01-03 19:18:39 DEBUG BookAspect:60 - Method Total Time Taken Is :: 341 MilliSeconds
+2019-01-03 19:18:39 DEBUG BookAspect:61 - 
+2019-01-03 19:18:39 DEBUG BookAspect:62 - 
+2019-01-03 19:18:43 DEBUG BookAspect:30 - 
+2019-01-03 19:18:43 DEBUG BookAspect:32 - Method Is Calling On :: Thu Jan 03 19:18:43 IST 2019
+2019-01-03 19:18:43 DEBUG BookAspect:33 - 
+2019-01-03 19:18:43 DEBUG BookAspect:73 - Method Name Is :: getAllBooks
+2019-01-03 19:18:43 DEBUG BookAspect:74 - Method Storing Memory Location Code Is :: 270473391
+2019-01-03 19:18:43 DEBUG BookAspect:75 - Method Start Time Is :: 1546523323013
+2019-01-03 19:18:43 DEBUG BookAspect:76 - 
+2019-01-03 19:18:43 DEBUG BookAspect:77 - 
+2019-01-03 19:18:43 DEBUG BookAspect:87 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiCrudWithReactReduxAndMongodb.service.BookService
+2019-01-03 19:18:43 DEBUG BookAspect:88 - Method End Time Is :: 1546523323254
+2019-01-03 19:18:43 DEBUG BookAspect:89 - Method Total Time Taken Is :: 241 MilliSeconds
+2019-01-03 19:18:43 DEBUG BookAspect:90 - 
+2019-01-03 19:18:43 DEBUG BookAspect:91 - 
+2019-01-03 19:19:19 DEBUG BookAspect:30 - 
+2019-01-03 19:19:19 DEBUG BookAspect:32 - Method Is Calling On :: Thu Jan 03 19:19:19 IST 2019
+2019-01-03 19:19:19 DEBUG BookAspect:33 - 
+2019-01-03 19:19:19 DEBUG BookAspect:73 - Method Name Is :: getAllBooks
+2019-01-03 19:19:19 DEBUG BookAspect:74 - Method Storing Memory Location Code Is :: 1694520746
+2019-01-03 19:19:19 DEBUG BookAspect:75 - Method Start Time Is :: 1546523359224
+2019-01-03 19:19:19 DEBUG BookAspect:76 - 
+2019-01-03 19:19:19 DEBUG BookAspect:77 - 
+2019-01-03 19:19:19 DEBUG BookAspect:87 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiCrudWithReactReduxAndMongodb.service.BookService
+2019-01-03 19:19:19 DEBUG BookAspect:88 - Method End Time Is :: 1546523359453
+2019-01-03 19:19:19 DEBUG BookAspect:89 - Method Total Time Taken Is :: 229 MilliSeconds
+2019-01-03 19:19:19 DEBUG BookAspect:90 - 
+2019-01-03 19:19:19 DEBUG BookAspect:91 - 
+2019-01-03 19:19:33 DEBUG BookAspect:30 - 
+2019-01-03 19:19:33 DEBUG BookAspect:32 - Method Is Calling On :: Thu Jan 03 19:19:33 IST 2019
+2019-01-03 19:19:33 DEBUG BookAspect:33 - 
+2019-01-03 19:19:33 DEBUG BookAspect:102 - Method Name Is :: deleteBook
+2019-01-03 19:19:33 DEBUG BookAspect:103 - Method Storing Memory Location Code Is :: 369746435
+2019-01-03 19:19:33 DEBUG BookAspect:104 - Method Start Time Is :: 1546523373160
+2019-01-03 19:19:33 DEBUG BookAspect:105 - 
+2019-01-03 19:19:33 DEBUG BookAspect:106 - 
+2019-01-03 19:19:33 DEBUG BookAspect:116 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiCrudWithReactReduxAndMongodb.service.BookService
+2019-01-03 19:19:33 DEBUG BookAspect:117 - Method End Time Is :: 1546523373391
+2019-01-03 19:19:33 DEBUG BookAspect:118 - Method Total Time Taken Is :: 231 MilliSeconds
+2019-01-03 19:19:33 DEBUG BookAspect:119 - 
+2019-01-03 19:19:33 DEBUG BookAspect:120 - 
+2019-01-03 19:19:36 DEBUG BookAspect:30 - 
+2019-01-03 19:19:36 DEBUG BookAspect:32 - Method Is Calling On :: Thu Jan 03 19:19:36 IST 2019
+2019-01-03 19:19:36 DEBUG BookAspect:33 - 
+2019-01-03 19:19:36 DEBUG BookAspect:73 - Method Name Is :: getAllBooks
+2019-01-03 19:19:36 DEBUG BookAspect:74 - Method Storing Memory Location Code Is :: 1025489377
+2019-01-03 19:19:36 DEBUG BookAspect:75 - Method Start Time Is :: 1546523376679
+2019-01-03 19:19:36 DEBUG BookAspect:76 - 
+2019-01-03 19:19:36 DEBUG BookAspect:77 - 
+2019-01-03 19:19:36 DEBUG BookAspect:87 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiCrudWithReactReduxAndMongodb.service.BookService
+2019-01-03 19:19:36 DEBUG BookAspect:88 - Method End Time Is :: 1546523376908
+2019-01-03 19:19:36 DEBUG BookAspect:89 - Method Total Time Taken Is :: 229 MilliSeconds
+2019-01-03 19:19:36 DEBUG BookAspect:90 - 
+2019-01-03 19:19:36 DEBUG BookAspect:91 - 
+2019-01-28 23:02:21 DEBUG BookAspect:30 - 
+2019-01-28 23:02:21 DEBUG BookAspect:32 - Method Is Calling On :: Mon Jan 28 23:02:21 IST 2019
+2019-01-28 23:02:21 DEBUG BookAspect:33 - 
+2019-01-28 23:02:21 DEBUG BookAspect:73 - Method Name Is :: getAllBooks
+2019-01-28 23:02:21 DEBUG BookAspect:74 - Method Storing Memory Location Code Is :: 1877727974
+2019-01-28 23:02:21 DEBUG BookAspect:75 - Method Start Time Is :: 1548696741021
+2019-01-28 23:02:21 DEBUG BookAspect:76 - 
+2019-01-28 23:02:21 DEBUG BookAspect:77 - 
+2019-01-28 23:02:24 DEBUG BookAspect:87 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiCrudWithReactReduxAndMongodb.service.BookService
+2019-01-28 23:02:24 DEBUG BookAspect:88 - Method End Time Is :: 1548696744473
+2019-01-28 23:02:24 DEBUG BookAspect:89 - Method Total Time Taken Is :: 3452 MilliSeconds
+2019-01-28 23:02:24 DEBUG BookAspect:90 - 
+2019-01-28 23:02:24 DEBUG BookAspect:91 - 
