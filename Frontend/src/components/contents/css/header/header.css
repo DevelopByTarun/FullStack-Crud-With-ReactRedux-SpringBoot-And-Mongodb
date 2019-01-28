@@ -1,0 +1,20 @@
+.setting_navs nav {
+  font-family: 'Merienda One', cursive;
+  padding: 10px;
+  font-size: 17px;
+}
+
+#tab a {
+  color: white;
+  font-weight: 900;
+  padding-right: 24px;
+}
+
+.activy a.active {
+  font-weight: 900;
+  border: 1.7px solid white;
+  border-bottom-width: 0px;
+  border-radius: 6px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
