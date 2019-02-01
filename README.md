@@ -14,22 +14,20 @@ This Is Full Stack Web Based Crud
 #### Important Point
 
 ```bash
-ReactRedux Files In Frontend Folder Of This Project
+ReactRedux Files In Frontend Folder Of This App
 ```
 
 ```bash
-SpringBoot Files In Backend Folder Of This Project
+SpringBoot Files In Backend Folder Of This App
 ```
 
 ```bash
 Copy All Contents From ReactRedux Build Folder And Paste In Webapp Folder Of SpringBoot
 ```
 
-#### Heroku Live Project Url
+#### Heroku Live App Url
 
-```bash
-https://sbrrcrud.herokuapp.com
-```
+[https://sbrrcrud.herokuapp.com](https://sbrrcrud.herokuapp.com)
 
 #### Frontend Technologies
 
