@@ -25,10 +25,6 @@ SpringBoot Files In Backend Folder Of This App
 Copy All Contents From ReactRedux Build Folder And Paste In Webapp Folder Of SpringBoot
 ```
 
-#### Heroku Live App Url
-
-[https://sbrrcrud.herokuapp.com](https://sbrrcrud.herokuapp.com)
-
 #### Frontend Technologies
 
 ```bash
